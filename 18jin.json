@@ -1,7 +1,7 @@
 ﻿// 配置地址 --> clan://localhost/TVBox/tvbox18.json
 
 {
-"spider":"https://xzhg1234.github.io/MAOMAO/0628.jar",
+"spider":"https://xzhg1234.github.io/MAOMAO/0627.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2xpdmUudHh0"]}]}],
 
 "sites": [
